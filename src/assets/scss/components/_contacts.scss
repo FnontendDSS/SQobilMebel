@@ -1,0 +1,168 @@
+.contacts{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    padding: 60px 50px;
+    @include media(420){
+        gap: 30px;
+        padding: 30px 15px;
+    }
+    &-main{
+        display: flex;
+        width: 100%;
+        gap: 132px;
+        @include media(420){
+            flex-direction: column;
+        }
+        &__l{
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            width: 590px;
+            @include media(420){
+                width: 100%;
+                gap: 10px;
+            }
+            &--adress{
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+                h3{
+                    font-size: 14px;
+                    line-height: 140%;
+                    color: $tx;
+                }
+                p{
+                    font-size: 28px;
+                    line-height: 130%;
+                    font-weight: 600;
+                    color: $tx2;
+                }
+                @include media(420){
+                    gap: 5px;
+                    h3{
+                        font-size: 9px;
+                    }
+                    p{
+                        font-size: 12px;
+                    }
+                }
+            }
+            &--contact{
+                display: flex;
+                gap: 30px;
+                &___l{
+                    display: flex;
+                    flex-direction: column;
+                    gap: 10px;
+                    width: 280px;
+                    h3{
+                        font-size: 14px;
+                        line-height: 140%;
+                        color: $tx;
+                    }
+                    p{
+                        font-size: 22px;
+                        line-height: 130%;
+                        font-weight: 600;
+                        color: $tx2;
+                    }
+                    @include media(420){
+                        width: 50%;
+                        gap: 5px;
+                        h3{
+                            font-size: 9px;
+                        }
+                        p{
+                            font-size: 10px;
+                        }
+                    }
+                }
+                &___r{
+                    width: 280px;
+                    display: flex;
+                    flex-direction: column;
+                    gap: 10px;
+                    h3{
+                        font-size: 14px;
+                        line-height: 140%;
+                        color: $tx;
+                    }
+                    a{
+                        font-size: 22px;
+                        line-height: 130%;
+                        font-weight: 600;
+                        color: $tx2;
+                    }
+                    @include media(420){
+                        width: 50%;
+                        gap: 5px;
+                        h3{
+                            font-size: 9px;
+                        }
+                        p{
+                            font-size: 10px;
+                        }
+                    }
+                }
+            }
+            &--links{
+                display: flex;
+                ul{
+                    display: flex;
+                    gap: 10px;
+                    li{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 52px;
+                        height: 52px;
+                        cursor: pointer;
+                        border-radius: 50px;
+                        border: 1px solid $tx3;
+                        a{
+                            font-size: 24px;
+                            line-height: 24px;
+                            font-weight: 600;
+                            color: $tx2;
+                        }
+                    }
+                }
+                @include media(420){
+                    ul{
+                        li{
+                            width: 26px;
+                            height: 26px;
+
+                            a{
+                                font-size: 12px;
+                                line-height: 12px;
+                            }
+                        }
+                    }
+                }
+            }
+            &--work{
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+                h3,p{
+                    font-size: 14px;
+                    line-height: 140%;
+                    color: $tx;
+                    font-weight: 600;
+                    @include media(420){
+                        font-size: 10px;
+                    }
+                }
+            }
+        }
+        &__r{
+            &--map{
+                @include media(420){
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

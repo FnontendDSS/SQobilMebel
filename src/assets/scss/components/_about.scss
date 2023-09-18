@@ -1,0 +1,130 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    gap: 120px;
+    padding: 60px 50px;
+    @include media(420){
+        padding: 30px 15px;
+        gap: 20px;
+    }
+    &-nav{
+        display: flex;
+        gap: 10px;
+        width: 100%;
+        @include media(420){
+            gap: 5px;
+        }
+        h3{
+            font-size: 24px;
+            color: $tx;
+            font-weight: 600;
+            line-height: 130%;
+            cursor: pointer;
+            @include media(420){
+                font-size: 12px;
+            }
+        }
+        p{
+            font-size: 24px;
+            color: $tx;
+            @include media(420){
+                font-size: 12px;
+            }
+        }
+    }
+    &-title{
+        font-size: 50px;
+        line-height: 130%;
+        font-weight: 600;
+        color: $tx;
+        @include media(420){
+            font-size: 22px;
+        }
+    }
+    &-main{
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+        @include media(420){
+            gap: 20px;
+        }
+        &__card{
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            gap: 30px;
+            @include media(420){
+                gap: 10px;
+            }
+            &--info{
+                width: 50%;
+                padding: 20px;
+                display: flex;
+                flex-direction: column;
+                gap: 30px;
+                @include media(420){
+                    padding: 5px;
+                    gap: 10xp;
+                    width: 30%;
+                }
+                p{
+                    font-size: 24px;
+                    line-height: 140%;
+                    color: $tx;
+                    @include media(420){
+                        font-size: 5px;
+                        font-weight: 600;
+                    }
+                }
+                &___btn{
+                    width: 50%;
+                    padding: 15px 30px;
+                    border-radius: 50px;
+                    border: none;
+                    background: $m3;
+                    cursor: pointer;
+                    @include media(420){
+                        width: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        padding: 4px 8px;
+                        border-radius: 10xp;
+                    }
+                    span{
+                        font-size: 24px;
+                        line-height: 130%;
+                        font-weight: 600;
+                        color: $tx2;
+                        @include media(420){
+                            font-size: 7px;
+                        }
+                    }
+                }
+                &___btn:hover{
+                    background: $m2;
+                    box-shadow: 0px 5px 10px 2px $m1;
+                    span{
+                        color: $tx3;
+                    }
+                }
+            }
+            &--img{
+                width: 50%;
+                img{
+                    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);   
+                    border-radius: 78% 22% 70% 30% / 30% 91% 9% 70% ;
+                    width: 100%;
+                    height: 100%;
+                }
+                @include media(420){
+                    width: 70%;
+                    img{
+                        border-radius: 10px;
+                        height: 85%;
+                    }
+                }
+            }
+        }    
+    }
+}

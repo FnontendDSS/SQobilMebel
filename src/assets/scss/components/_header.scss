@@ -1,0 +1,162 @@
+.header{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 60px 50px;
+    @include media(420){
+        padding: 30px 15px;
+    }
+    &-title{
+        display: flex;
+        gap: 10px;
+        width: 100%;
+        height: 200px;
+        @include media(420){
+            height: 70px;
+            gap: 5%;
+        }
+        &__main{
+            display: flex;
+            width: 22%;
+            padding: 10px;
+            @include media(420){
+                padding: 2px;
+            }
+            h2{
+                font-size: 40px;
+                font-weight: 600;
+                line-height: 130%;
+                width: 100%;
+                color: $tx2;
+                text-shadow: 2px 1px 1px $tx;
+                span{
+                    color: $m2;
+                    font-weight: 600;
+                }
+                @include media(420){
+                    font-size: 14px;
+                    text-shadow: 1px 1px 1px $tx;
+                }
+            }
+        }
+        &__info{
+            width: 80%;
+            display: flex;
+            gap: 5%;
+            &--item{
+                width: 20%;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                background: $bg2;
+                border-radius: 30px;
+                box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+                span{
+                    font-size: 50px;
+                    color: $tx2;
+                }
+                @include media(420){
+                    border-radius: 10px;
+                    box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.35);
+                    padding: 10px;
+                    span{
+                        font-size: 16px;
+                    }
+                }
+                p{
+                    font-size: 18px;
+                    line-height: 140%;
+                    font-weight: 600;
+                    color: $tx;
+                    @include media(420){
+                        font-size: 6px;
+                    }
+                }
+            }
+        }
+    }
+    &-content{
+        background: rgb(47,47,47);
+        background: linear-gradient(90deg, rgba(47,47,47,1) 43%, rgba(246,246,246,1) 75%);
+        padding: 60px 50px;
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        @include media(420){
+            padding: 30px 15px;
+            height: 330px;
+        }
+        &__info{
+            display: flex;
+            flex-direction: column;
+            gap: 50px;
+            width: 25%;
+            
+            h3{
+                font-size: 40px;
+                line-height: 130%;
+                font-weight: 600;
+                color: $m2;
+            }
+            p{
+                font-size: 24px;
+                line-height: 140%;
+                color: $m1;
+            }
+            @include media(420){
+                gap: 10px;
+                h3{
+                    font-size: 18px;
+                }
+                p{
+                    font-size: 9px;
+                }
+            }
+            &--btn{
+                padding: 15px 30px;
+                background: transparent;
+                border-radius: 50px;
+                border: 2px solid $m2;
+                display: flex;
+                gap: 20px;
+                align-items: center;
+                justify-content: center;
+                span{
+                    font-size: 24px;
+                    font-weight: 600;
+                    line-height: 130%;
+                    color: $m2;
+                }
+                @include media(420){
+                    padding: 4px 8px;
+                    border-radius: 10px;
+                    span{
+                        font-size: 10px;
+                        
+                    }
+                }
+            }
+            &--btn:hover{
+                background: $m2;
+                border: none;
+                box-shadow: 0px 5px 10px 2px $m1;
+                span{
+                    color: $tx2;
+                    font-weight: 600;
+                }
+            }
+        }
+        &__img{
+           
+            @include media(420){
+                padding: 30px 0 ;
+                width: 200px;
+                img{
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,139 @@
+.swiper{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 60px 50px;
+    @include media (420){
+        padding: 30px 15px;
+    }
+    &-slides{
+        width: 100%;
+        height: 100%;
+        border-radius: 30px;
+        border: 2px solid $m2;
+       @include media(420){
+        border-radius: 10px;
+        border: 1px solid $m2;
+       }
+        &__img{
+            display: flex;
+            width: 100%;
+            height: 600px;
+            position: relative;
+            border-radius: 28px;
+            @include media(420){
+                height: 250px;
+                border-radius: 9px;
+            }
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+
+        }
+        &__info{
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            top: 165px;
+            left: 65px;
+            width: 50%;
+            gap: 20px;
+            @include media(420){
+                top: 10px;
+                left: 9px;
+                gap: 5px;
+            }
+            h3, .badtitle{
+                font-size: 40px;
+                line-height: 130%;
+                font-weight: 600;
+                color: $tx2;
+                @include media(420){
+                    font-size: 14px;
+                }
+            }
+            .badtitle{
+                color: $m2;
+            }
+            p{
+                font-size: 18px;
+                line-height: 140%;
+                font-weight: 600;
+                background: rgba(255, 255, 255, 0.2);
+                backdrop-filter: blur(3.7px);
+                -webkit-backdrop-filter: blur(3.7px);
+                color: $tx2;
+                border-radius: 30px;
+                padding: 10px;
+                text-shadow: 1px -1px 1px $tx3;
+                @include media(420){
+                    font-size: 9px;
+                    font-weight: 400;
+                    border-radius: 10px;
+                }
+            }
+            &--btn{
+                display: flex;
+                position: absolute;
+                z-index: 2;
+                bottom: 100px;
+                left: 65px;
+                padding: 15px 30px;
+                border-radius: 50px;
+                border: none;
+                background: $m3;
+                cursor: pointer;
+                box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+                span{
+                    font-size: 18px;
+                    line-height: 130%;
+                    font-weight: 600;
+                }
+                @include media(420){
+                    bottom: 10px;
+                    left: 10px;
+                    padding: 4px 8px;
+                    background-repeat: 30px;
+                    span{
+                        font-size: 9px;
+                    }
+                }
+            }
+            &--btn:hover{
+                background: $m2;
+                box-shadow: 0px 5px 10px 2px $m1;
+                @include media(420){
+                    box-shadow:none;
+                }
+                span{
+                    color: $tx3;
+                }
+            }
+        }
+    }
+}
+.swiper-splide{
+    width: 100%;
+    height: 600px;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+    border-radius: 30px;
+    @include media(420){
+        height: 250px;
+        box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.35);
+        border-radius: 10px;
+    }
+}
+.splide__arrow svg{
+    fill: $m2;
+    @include media(420){
+        display: none;
+    }
+}
+.splide__pagination__page.is-active{
+    background: $m2;
+}
+.splide__arrow svg:hover{
+    fill: #ffffff;
+}

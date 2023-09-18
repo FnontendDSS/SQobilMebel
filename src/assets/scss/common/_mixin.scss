@@ -1,0 +1,24 @@
+@mixin media($size) {
+    @media (max-width: #{$size}px) {
+      @content;
+    }
+  }
+  @mixin FontFace($name, $fw, $ff, $url, $ext, $format) {
+    @font-face {
+      font-family: $ff;
+      src: url('../fonts/#{$url}-#{$name}.#{$ext}') format($format);
+      font-weight: $fw;
+    }
+  }
+  $fontArr: ('Regular', 400),('Medium', 500),('Bold', 700);
+  @each $name, $fw in $fontArr {
+    @include FontFace($name, $fw, 'Rubik', 'Rubik/Rubik', 'ttf', 'truetype');
+  }
+  @mixin container() {
+    max-width: 1320px;
+    width: 100%;
+    padding: 0 10px;
+    margin: 0 auto;
+    @include media(1200) {max-width: 960px;}
+    @include media(380) {max-width: 100%;}
+  }

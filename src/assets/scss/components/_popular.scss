@@ -1,0 +1,132 @@
+.popular{
+    padding: 60px 50px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    @include media(420){
+        padding: 30px 15px;
+        grid-gap: 10px;
+        grid-template-columns: repeat(3, 1fr);
+        overflow: hidden;
+
+    }
+    &-card,
+    &-card1{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        border-radius: 30px;
+        background: $bg2;
+        box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35); 
+        @include media(420){
+            border-radius: 10px;
+        }
+        &__img{
+            border-radius: 30px;
+            img{
+                width: 100%;
+                position: relative;
+                border-radius: 30px;
+            }
+            @include media(420){
+                border-radius: 10px;
+                img{
+                    border-radius: 10px;
+                }
+            }
+            &--btn{
+                position: absolute;
+                left: 20px;
+                top: 20px;
+                display: flex;
+                gap: 10px;
+                &___m,
+                &___q,
+                &___c,
+                &___p{
+                    padding: 4px 8px;
+                    border-radius: 50px;
+                    border: none;
+                    span{
+                        font-size: 14px;
+                        color: $tx3;
+                    }
+                }
+                &___m{
+                    background: linear-gradient(175deg, #FFCFE0 0%, #E96796 23.86%, #EF3C3C 100%);
+                }
+                &___c{
+                    background: linear-gradient(175deg, #F2FFEF 0%, #93C688 23.86%, #56824C 100%);
+                }
+                &___p{
+                    background: linear-gradient(175deg, #FFE9FE 0%, #E39EE0 23.86%, #B669B3 100%);
+                }
+                &___q{
+                    background: linear-gradient(175deg, #C2CCFF 0%, #465EDB 23.86%, #3147BA 100%);
+                }
+                @include media(420){
+                    left: 1px;
+                    top: 5px;
+                    gap: 5px;
+                    &___m,
+                    &___q,
+                    &___c,
+                    &___p{
+                        padding: 2px 4px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        span{
+                            font-size: 9px;
+                        }
+                    }
+                    &___p{
+                        display: none;
+                    }
+                }
+            }
+        }
+        &__info{
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            h4{
+                font-size: 24px;
+                color: $tx2;
+            }
+            &--btn{
+                padding: 4px 8px;
+                background: $m3;
+                border-radius: 50px;
+                border: none;
+                cursor: pointer;
+                span{
+                    font-size: 16px;
+                    font-weight: 600;
+                    color: $tx;
+                }
+            }
+            @include media(420){
+                padding: 5px;
+                gap: 10px;
+                h4{
+                    font-size: 14px;
+                }
+                &--btn{
+                    padding: 2px 4px;
+                    span{
+                        font-size: 9px;
+                    }
+                }
+            }
+        }
+    }
+    &-card1{
+        display: none;
+        @include media(420){
+            display: flex;
+        }
+    }
+}
