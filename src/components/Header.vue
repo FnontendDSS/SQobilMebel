@@ -30,7 +30,7 @@
         <p>Мы упрощаем вам поиск идеального партнера.</p>
         <router-link to="/contacts">
         <button class="header-content__info--btn">
-          <span>Cвязатся <fa :icon="['fas', 'phone']" /></span>
+          <span>Связаться <fa :icon="['fas', 'phone']" /></span>
         </button>
         </router-link>
       </div>

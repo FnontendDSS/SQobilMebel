@@ -1,0 +1,235 @@
+.offer{
+    display: flex;
+    flex-direction: column;
+    padding: 60px 50px;
+    @include media(420){
+        padding: 30px 15px;
+    }
+    &-main{
+        display: flex;
+        width: 100%;
+        background: $bg2;
+        padding: 20px;
+        border-radius: 30px;
+        gap: 40px;
+        @include media(420){
+            border-radius: 10px;
+        }
+        &__l{
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            h3{
+                font-size: 40px;
+                line-height: 130%;
+                font-weight: 600;
+                color: $tx2;
+            }
+            @include media(420){
+                gap: 15px;
+                width: 100%;
+                h3{
+                    font-size: 24px;
+                }
+            }
+            &--info{
+              p{
+                font-size: 24px;
+                line-height: 140%;
+                color: $tx;
+                -webkit-animation: color-change-4x 6s linear infinite alternate both;
+                animation: color-change-4x 6s linear infinite alternate both;
+                padding: 10px;
+                border-radius: 30px;
+              }
+              @include media(420){
+                p{
+                    font-size: 16px;
+                    border-radius: 10px;
+                    padding: 5px;
+                }
+              }
+            }
+        }
+        &__r{
+            width: 50%;
+            img{
+                width: 100%;
+                border-radius: 30px;
+            }
+            @include media(420){
+                display: none;
+            }
+        }
+    }
+}
+
+.bounce-top {
+    margin-top: 100px;
+    margin-left: 30px;
+	-webkit-animation: bounce-top 2s infinite both;
+	animation: bounce-top 2s infinite both;
+    padding: 15px 30px;
+    border-radius: 30px;
+    background: $m3;
+    border: none;
+    cursor: pointer;
+    span{
+        font-size: 24px;
+        line-height: 130%;
+        font-weight: 600;
+        color: $tx2;
+    }
+    @include media(420){
+        margin-top: 50px;
+        padding: 4px 8px;
+        span{
+            font-size: 18px;
+        }
+    }
+}
+
+ @-webkit-keyframes bounce-top {
+    0% {
+      -webkit-transform: translateY(-45px);
+              transform: translateY(-45px);
+      -webkit-animation-timing-function: ease-in;
+              animation-timing-function: ease-in;
+      opacity: 1;
+      @include media(420){
+        -webkit-transform: translateY(-25px);
+              transform: translateY(-25px);
+      }
+    }
+    24% {
+      opacity: 1;
+    }
+    40% {
+      -webkit-transform: translateY(-24px);
+              transform: translateY(-24px);
+      -webkit-animation-timing-function: ease-in;
+              animation-timing-function: ease-in;
+    }
+    65% {
+      -webkit-transform: translateY(-12px);
+              transform: translateY(-12px);
+      -webkit-animation-timing-function: ease-in;
+              animation-timing-function: ease-in;
+    }
+    82% {
+      -webkit-transform: translateY(-6px);
+              transform: translateY(-6px);
+      -webkit-animation-timing-function: ease-in;
+              animation-timing-function: ease-in;
+    }
+    93% {
+      -webkit-transform: translateY(-4px);
+              transform: translateY(-4px);
+      -webkit-animation-timing-function: ease-in;
+              animation-timing-function: ease-in;
+    }
+    25%,
+    55%,
+    75%,
+    87% {
+      -webkit-transform: translateY(0px);
+              transform: translateY(0px);
+      -webkit-animation-timing-function: ease-out;
+              animation-timing-function: ease-out;
+    }
+    100% {
+      -webkit-transform: translateY(0px);
+              transform: translateY(0px);
+      -webkit-animation-timing-function: ease-out;
+              animation-timing-function: ease-out;
+      opacity: 1;
+    }
+  }
+  @keyframes bounce-top {
+    0% {
+      -webkit-transform: translateY(-45px);
+              transform: translateY(-45px);
+      -webkit-animation-timing-function: ease-in;
+              animation-timing-function: ease-in;
+      opacity: 1;
+      @include media(420){
+        -webkit-transform: translateY(-25px);
+              transform: translateY(-25px);
+      }
+    }
+    24% {
+      opacity: 1;
+    }
+    40% {
+      -webkit-transform: translateY(-24px);
+              transform: translateY(-24px);
+      -webkit-animation-timing-function: ease-in;
+              animation-timing-function: ease-in;
+    }
+    65% {
+      -webkit-transform: translateY(-12px);
+              transform: translateY(-12px);
+      -webkit-animation-timing-function: ease-in;
+              animation-timing-function: ease-in;
+    }
+    82% {
+      -webkit-transform: translateY(-6px);
+              transform: translateY(-6px);
+      -webkit-animation-timing-function: ease-in;
+              animation-timing-function: ease-in;
+    }
+    93% {
+      -webkit-transform: translateY(-4px);
+              transform: translateY(-4px);
+      -webkit-animation-timing-function: ease-in;
+              animation-timing-function: ease-in;
+    }
+    25%,
+    55%,
+    75%,
+    87% {
+      -webkit-transform: translateY(0px);
+              transform: translateY(0px);
+      -webkit-animation-timing-function: ease-out;
+              animation-timing-function: ease-out;
+    }
+    100% {
+      -webkit-transform: translateY(0px);
+              transform: translateY(0px);
+      -webkit-animation-timing-function: ease-out;
+              animation-timing-function: ease-out;
+      opacity: 1;
+    }
+  }
+
+@-webkit-keyframes color-change-4x {
+    0% {
+      background: #19dcea;
+    }
+    33.3333% {
+      background: #b22cff;
+    }
+    66.666% {
+      background: #ea2222;
+    }
+    100% {
+      background: #f5be10;
+    }
+  }
+  @keyframes color-change-4x {
+    0% {
+      background: #19dcea;
+    }
+    33.3333% {
+      background: #b22cff;
+    }
+    66.666% {
+      background: #ea2222;
+    }
+    100% {
+      background: #f5be10;
+    }
+  }
+  
+  
