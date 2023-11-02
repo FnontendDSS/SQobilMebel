@@ -21,7 +21,7 @@
         <div class="contacts-main__l--contact">
           <div class="contacts-main__l--contact___l">
             <h3>Телефон:</h3>
-            <p>+998(97)-727-58-67</p>
+            <p>+998(97)-737-58-67</p>
             <p>+998(98)-809-01-41</p>
           </div>
           <div class="contacts-main__l--contact___r">
