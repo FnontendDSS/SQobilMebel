@@ -55,6 +55,17 @@
         <img src="../assets/images/classicfur/c1/classic82.jpg" alt="">
         <img src="../assets/images/classicfur/c1/classic87.jpg" alt="">
         <img src="../assets/images/classicfur/c1/classic90.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl1.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl2.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl3.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl4.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl5.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl6.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl7.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl8.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl9.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl10.jpg" alt="">
+        <img src="../assets/images/classicfur/c1/24cl11.jpg" alt="">
         </div>
         <div class="classic-main__2">
             <img src="../assets/images/classicfur/c2/classic2.jpg" alt="">
@@ -78,6 +89,53 @@
             <img src="../assets/images/classicfur/c2/classic85.jpg" alt="">
             <img src="../assets/images/classicfur/c2/classic86.jpg" alt="">
             <img src="../assets/images/classicfur/c2/classic89.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl26.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl27.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl28.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl29.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl30.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl31.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl32.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl33.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl34.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl35.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl36.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl37.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl38.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl39.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl40.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl41.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl42.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl43.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl44.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl45.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl46.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl47.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl48.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl49.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl50.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl51.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl52.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl53.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl54.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl55.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl56.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl57.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl58.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl59.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl60.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl61.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl62.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl63.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl64.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl65.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl66.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl67.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl68.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl69.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl70.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl71.jpg" alt="">
+            <img src="../assets/images/classicfur/c3/24cl72.jpg" alt="">
         </div>
         <div class="classic-main__3">
             <img src="../assets/images/classicfur/c3/classic6.jpg" alt="">
@@ -100,6 +158,20 @@
             <img src="../assets/images/classicfur/c3/classic80.jpg" alt="">
             <img src="../assets/images/classicfur/c3/classic83.jpg" alt="">
             <img src="../assets/images/classicfur/c3/classic84.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl12.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl13.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl14.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl15.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl16.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl17.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl18.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl19.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl20.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl21.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl22.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl23.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl24.jpg" alt="">
+            <img src="../assets/images/classicfur/c2/24cl25.jpg" alt="">
         </div>
     </div>
   </div>

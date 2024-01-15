@@ -31,6 +31,12 @@
            <img src="../assets/images/furniture/1/fur4.jpg" alt="">
            <img src="../assets/images/furniture/1/fur5.jpg" alt="">
            <img src="../assets/images/furniture/1/fur6.jpg" alt="">
+           <img src="../assets/images/furniture/1/24fur1.jpg" alt="">
+           <img src="../assets/images/furniture/1/24fur2.jpg" alt="">
+           <img src="../assets/images/furniture/1/24fur3.jpg" alt="">
+           <img src="../assets/images/furniture/1/24fur4.jpg" alt="">
+           <img src="../assets/images/furniture/1/24fur5.jpg" alt="">
+           <img src="../assets/images/furniture/1/24fur6.jpg" alt="">
           </div>
           <div class="classic-main__2">
             <img src="../assets/images/furniture/2/fur7.jpg" alt="">
@@ -63,6 +69,29 @@
             <img src="../assets/images/furniture/2/fur34.jpg" alt="">
             <img src="../assets/images/furniture/2/fur35.jpg" alt="">
             <img src="../assets/images/furniture/2/fur36.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur30.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur31.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur32.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur33.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur34.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur35.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur36.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur37.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur38.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur39.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur40.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur41.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur42.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur43.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur44.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur45.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur46.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur47.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur48.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur49.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur50.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur51.jpg" alt="">
+            <img src="../assets/images/furniture/3/24fur52.jpg" alt="">
           </div>
           <div class="classic-main__3">
             <img src="../assets/images/furniture/3/fur37.jpg" alt="">
@@ -85,6 +114,29 @@
             <img src="../assets/images/furniture/3/fur55.jpg" alt="">
             <img src="../assets/images/furniture/3/fur58.jpg" alt="">
             <img src="../assets/images/furniture/3/fur59.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur7.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur8.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur9.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur10.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur11.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur12.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur13.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur14.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur15.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur16.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur17.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur18.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur19.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur20.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur21.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur22.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur23.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur24.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur25.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur26.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur27.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur28.jpg" alt="">
+            <img src="../assets/images/furniture/2/24fur29.jpg" alt="">
           </div>
       </div>
     </div>

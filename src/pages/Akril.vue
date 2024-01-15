@@ -53,6 +53,8 @@
              <img src="../assets/images/akrilfur/1/ac73.jpg" alt="">
              <img src="../assets/images/akrilfur/1/acril2.jpg" alt="">
              <img src="../assets/images/akrilfur/1/acril3.jpg" alt="">
+             <img src="../assets/images/akrilfur/1/24ac1.jpg" alt="">
+             <img src="../assets/images/akrilfur/1/24ac2.jpg" alt="">
           </div>
           <div class="classic-main__2">
             <img src="../assets/images/akrilfur/2/ac4.jpg" alt="">
@@ -88,6 +90,27 @@
             <img src="../assets/images/akrilfur/2/ac72.jpg" alt="">
             <img src="../assets/images/akrilfur/2/ac74.jpg" alt="">
             <img src="../assets/images/akrilfur/2/ac75.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac5.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac6.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac7.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac8.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac9.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac10.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac11.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac12.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac13.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac14.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac15.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac16.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac17.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac18.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac19.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac20.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac21.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac22.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac23.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac24.jpg" alt="">
+            <img src="../assets/images/akrilfur/3/24ac25.jpg" alt="">
           </div>
           <div class="classic-main__3">
           <img src="../assets/images/akrilfur/3/ac2.jpg" alt="">
@@ -102,6 +125,8 @@
           <img src="../assets/images/akrilfur/3/ac64.jpg" alt="">
           <img src="../assets/images/akrilfur/3/ac65.jpg" alt="">
           <img src="../assets/images/akrilfur/3/ac70.jpg" alt="">
+          <img src="../assets/images/akrilfur/2/24ac3.jpg" alt="">
+          <img src="../assets/images/akrilfur/2/24ac4.jpg" alt="">
           </div>
       </div>
     </div>

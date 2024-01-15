@@ -79,6 +79,13 @@
              <img src="../assets/images/bad/1/bad59.jpg" alt="">
              <img src="../assets/images/bad/1/bad60.jpg" alt="">
              <img src="../assets/images/bad/1/bad62.jpg" alt="">
+             <img src="../assets/images/bad/1/24bad1.jpg" alt="">
+             <img src="../assets/images/bad/1/24bad2.jpg" alt="">
+             <img src="../assets/images/bad/1/24bad3.jpg" alt="">
+             <img src="../assets/images/bad/1/24bad4.jpg" alt="">
+             <img src="../assets/images/bad/1/24bad5.jpg" alt="">
+             <img src="../assets/images/bad/1/24bad6.jpg" alt="">
+             <img src="../assets/images/bad/1/24bad7.jpg" alt="">
           </div>
           <div class="classic-main__2">
             <img src="../assets/images/bad/2/bad63.jpg" alt="">
@@ -129,6 +136,27 @@
             <img src="../assets/images/bad/2/bad109.jpg" alt="">
             <img src="../assets/images/bad/2/bad111.jpg" alt="">
             <img src="../assets/images/bad/2/bad112.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad12.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad13.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad14.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad15.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad16.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad17.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad18.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad19.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad20.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad21.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad22.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad23.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad24.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad25.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad26.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad27.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad28.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad29.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad30.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad31.jpg" alt="">
+            <img src="../assets/images/bad/3/24bad32.jpg" alt="">
           </div>
           <div class="classic-main__3">
             <img src="../assets/images/bad/3/bad113.jpg" alt="">
@@ -151,6 +179,10 @@
             <img src="../assets/images/bad/3/bad134.jpg" alt="">
             <img src="../assets/images/bad/3/bad135.jpg" alt="">
             <img src="../assets/images/bad/3/bad136.jpg" alt="">
+            <img src="../assets/images/bad/2/24bad8.jpg" alt="">
+            <img src="../assets/images/bad/2/24bad9.jpg" alt="">
+            <img src="../assets/images/bad/2/24bad10.jpg" alt="">
+            <img src="../assets/images/bad/2/24bad11.jpg" alt="">
           </div>
       </div>
     </div>
